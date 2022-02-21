@@ -1,6 +1,9 @@
 > I’m @fcalder3
+
 > I’m interested in being rich
+
 > I’m currently learning comp sci to be rich
+
 > How to reach me: my discord is phillip_calzone#7411
 
 <!---
